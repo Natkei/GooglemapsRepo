@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "Oslo, Norway" ],
+   "origin_addresses" : [ "Hønefoss, Norway" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "57.5 km",
+                  "value" : 57454
+               },
+               "duration" : {
+                  "text" : "58 mins",
+                  "value" : 3491
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
