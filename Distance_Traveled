@@ -47,3 +47,32 @@ ROUTE_#2
    ],
    "status" : "OK"
 }
+
+
+ROUTE_#3
+{
+    "destination_addresses": [
+        "Drammen, Norway"
+    ],
+    "origin_addresses": [
+        "Sandvika, Norway"
+    ],
+    "rows": [
+        {
+            "elements": [
+                {
+                    "distance": {
+                        "text": "29.0 km",
+                        "value": 28970
+                    },
+                    "duration": {
+                        "text": "25 mins",
+                        "value": 1496
+                    },
+                    "status": "OK"
+                }
+            ]
+        }
+    ],
+    "status": "OK"
+}
