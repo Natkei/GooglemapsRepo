@@ -1,3 +1,4 @@
+ROUTE_#1
 {
    "destination_addresses" : [ "Oslo, Norway" ],
    "origin_addresses" : [ "Hønefoss, Norway" ],
@@ -12,6 +13,32 @@
                "duration" : {
                   "text" : "58 mins",
                   "value" : 3491
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+ROUTE_#2
+{
+   "destination_addresses" : [ "Sandvika, Norway" ],
+   "origin_addresses" : [ "Oslo, Norway" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "15.5 km",
+                  "value" : 15478
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1050
                },
                "status" : "OK"
             }
