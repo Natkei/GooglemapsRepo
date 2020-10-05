@@ -80,3 +80,29 @@ ROUTE_#3
 
 
 ROUTE_#4
+{
+    "destination_addresses": [
+        "Oslo, Norway"
+    ],
+    "origin_addresses": [
+        "Drammen, Norway"
+    ],
+    "rows": [
+        {
+            "elements": [
+                {
+                    "distance": {
+                        "text": "42.6 km",
+                        "value": 42625
+                    },
+                    "duration": {
+                        "text": "39 mins",
+                        "value": 2350
+                    },
+                    "status": "OK"
+                }
+            ]
+        }
+    ],
+    "status": "OK"
+}
